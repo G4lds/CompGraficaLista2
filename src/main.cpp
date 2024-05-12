@@ -123,6 +123,8 @@ void processInput(GLFWwindow *window)
         glViewport(0, 0, 800, 600);
     if (seletor == 4)
         glViewport(400, 300, 400, 300);
+    if (seletor == 5)
+        glViewport(400, 300, 400, 300);
     if (seletor < 0)
         seletor = 0;
     else if (seletor > 14)
@@ -170,7 +172,7 @@ int main(int, char **)
     // Configura a matriz de projeção ortográfica para coordenadas normalizadas de -1 a 1.
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();
-    glOrtho(-1.0, 1.0, -1.0, 1.0, -1.0, 1.0);
+    glOrtho(-2.0, 1.0, -1.0, 1.0, -1.0, 1.0);
 
     // Configura a matriz de visualização do modelo para a identidade
     glMatrixMode(GL_MODELVIEW);
