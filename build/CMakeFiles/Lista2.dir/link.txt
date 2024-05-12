@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/Lista2.dir/main.cpp.o -o Lista2 

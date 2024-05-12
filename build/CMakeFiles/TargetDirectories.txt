@@ -1,0 +1,5 @@
+/home/Galds/Documents/GitHub/CompGraficaLista2/build/CMakeFiles/projeto_opengl.dir
+/home/Galds/Documents/GitHub/CompGraficaLista2/build/CMakeFiles/package.dir
+/home/Galds/Documents/GitHub/CompGraficaLista2/build/CMakeFiles/package_source.dir
+/home/Galds/Documents/GitHub/CompGraficaLista2/build/CMakeFiles/edit_cache.dir
+/home/Galds/Documents/GitHub/CompGraficaLista2/build/CMakeFiles/rebuild_cache.dir

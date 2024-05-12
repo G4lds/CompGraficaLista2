@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/Galds/Documents/GitHub/CompGraficaLista2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/projeto_opengl.dir/src/main.cpp.o -c /home/Galds/Documents/GitHub/CompGraficaLista2/src/main.cpp",
+  "file": "/home/Galds/Documents/GitHub/CompGraficaLista2/src/main.cpp",
+  "output": "CMakeFiles/projeto_opengl.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/Galds/Documents/GitHub/CompGraficaLista2/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/projeto_opengl.dir/src/glad.c.o -c /home/Galds/Documents/GitHub/CompGraficaLista2/src/glad.c",
+  "file": "/home/Galds/Documents/GitHub/CompGraficaLista2/src/glad.c",
+  "output": "CMakeFiles/projeto_opengl.dir/src/glad.c.o"
+}
+]
